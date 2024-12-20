@@ -1,0 +1,31 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Постановка задачи}{2}{}%
+\contentsline {section}{Описание исходного алгоритма}{3}{}%
+\contentsline {subsection}{Используемые функции}{3}{}%
+\contentsline {subsection}{Используемые переменные}{3}{}%
+\contentsline {section}{OpenMP}{4}{}%
+\contentsline {subsection}{Параллелизация при помощи директивы \texttt {for}}{4}{}%
+\contentsline {subsubsection}{Внесенные изменения}{4}{}%
+\contentsline {subsubsection}{Код программы}{5}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus}{8}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus. Флаг оптимизации \texttt {-O2}}{9}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus. Флаг оптимизации \texttt {-O3}}{10}{}%
+\contentsline {subsection}{Параллелизация при помощи директивы \texttt {task}}{11}{}%
+\contentsline {subsubsection}{Внесенные изменения}{11}{}%
+\contentsline {subsubsection}{Код программы}{12}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus}{16}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus. Флаг оптимизации \texttt {-O2}}{17}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus. Флаг оптимизации \texttt {-O3}}{18}{}%
+\contentsline {subsection}{Выводы об OpenMP}{19}{}%
+\contentsline {subsubsection}{Влияние флагов компиляции}{19}{}%
+\contentsline {section}{MPI}{20}{}%
+\contentsline {subsection}{Параллелизация при помощи MPI}{20}{}%
+\contentsline {subsubsection}{Внесенные изменения}{20}{}%
+\contentsline {subsubsection}{Код программы}{21}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus}{25}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus. Флаг оптимизации \texttt {-O2}}{26}{}%
+\contentsline {subsubsection}{Тестирование программы на Polus. Флаг оптимизации \texttt {-O3}}{27}{}%
+\contentsline {subsection}{Выводы о MPI}{28}{}%
+\contentsline {subsubsection}{Влияние флагов компиляции}{28}{}%
+\contentsline {section}{Выводы}{29}{}%
+\contentsline {section}{Приложения}{30}{}%
