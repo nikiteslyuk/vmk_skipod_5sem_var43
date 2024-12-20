@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/MacPorts 2022.62882_2) (preloaded format=pdflatex 2023.4.6)  20 DEC 2024 20:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/MacPorts 2022.62882_2) (preloaded format=pdflatex 2023.4.6)  20 DEC 2024 20:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1276,7 +1276,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Here is how much of TeX's memory you used:
  26403 strings out of 479702
  652866 string characters out of 5887084
- 1284695 words of memory out of 5000000
+ 1284693 words of memory out of 5000000
  43948 multiletter control sequences out of 15000+600000
  484242 words of font info for 55 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
